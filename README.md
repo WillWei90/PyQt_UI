@@ -2,7 +2,7 @@
 
 A PyQt-based desktop application that allows users to search and download images from PTT (Taiwan's largest bulletin board system) boards.  
 
-![PyQt_UI_Image](PyQt_UI_Image.jpg "PyQt_UI_Image")
+![PyQt_UI_Image](PyQt_UI_Image.JPG "PyQt_UI_Image")
 ## Features  
 
 - Input any PTT board URL for image searching  
